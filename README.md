@@ -1,6 +1,6 @@
 # Hello World!
 
-This is where we will be storing our Engineering 1 (SEPR) project.
+This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
 
 ## Resources
 
