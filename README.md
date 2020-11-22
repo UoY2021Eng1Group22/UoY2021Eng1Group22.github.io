@@ -9,7 +9,7 @@ This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
 [Method Selection and Planning](https://docs.google.com/document/d/1VLkGLXZ6Fqu2J9qZqJ25To38Dz7wApxUYSPNd_2f7xY/edit?usp=sharing)  
 [Risk Assessment](https://docs.google.com/document/d/1SlJDxLYpFV0tN-INbKLkzhi6NVLV4xNTBugW1xpC0Pg/edit?usp=sharing)  
 [Implementation Discussion](https://docs.google.com/document/d/1J6kzp1heU8SUgIHUlTRglJRRTzFKsktP8xReDOo23vk/edit?usp=sharing)  
-[Code Documentation](https://rawcdn.githack.com/Spanishforsalt/Spanishforsalt.github.io/f4af6e2da6e4b5ccbd31c0284bbb2d1521324b58/docs/index.html)
+[Code Documentation](https://spanishforsalt.github.io/docs/)
 
 ## Sprint Updates
 
