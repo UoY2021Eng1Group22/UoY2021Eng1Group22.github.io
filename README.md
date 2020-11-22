@@ -18,7 +18,7 @@ This is where we will be storing our Engineering 1 (SEPR) project.
 
 This week we were slightly delayed getting the requirements written-up however we do not expect to go past the 28/10 complete date for these tasks  
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 **23/10 - 29/10**  
   
@@ -26,7 +26,7 @@ This week we were slightly delayed getting the requirements written-up however w
 
 The requirements were completed by 29/10 which keeps us on track as planned. We have a breakdown of each task that needs to be completed and have planned accordingly. We have also discussed which methods and tools we will be using; this is yet to be written up however.  
 
-<br><br>
+<br><br><br><br>
 
 **30/10 - 05/11**  
   
@@ -34,7 +34,7 @@ The requirements were completed by 29/10 which keeps us on track as planned. We 
   
 Having gotten a diagram for the Abstract Architecture completed, we started implementing as soon as possible as it appears writing about the Architecture is going to take us longer than expected  
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 **06/10 - 12/11**  
   
@@ -43,7 +43,7 @@ Having gotten a diagram for the Abstract Architecture completed, we started impl
 
 We have discussed our method and tool selection and have documented our Abstract and Concrete Architecture representations - though these need to be related to the requirements yet.  
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
 **13/10 - 19/11**  
   
@@ -51,4 +51,4 @@ We have discussed our method and tool selection and have documented our Abstract
 
 We have completed our representation of the Concrete Architecture as the Implementation is well under way; no changes to the Architecture of the game will be changed at this point. We have also begun identifying risks in the project.  We are yet to discuss unimplemented requirements but that should be done over the weekend.  
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
