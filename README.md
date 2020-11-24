@@ -4,10 +4,10 @@ This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
 
 ## Resources
 
-[Requirements Specification](https://docs.google.com/document/d/1v0_sddPfRPqGsccSrqBtwoPZgXGJemVWQHNu6L7nLQA/edit?usp=sharing)  
+[Requirements Specification](Spanishforsalt.github.io/pdfs/REQUIREMENTS.pdf)  
 [Architecture](https://docs.google.com/document/d/1cybAkH7rMg2B_xwZuOb-Dg47knBxdxyq5zAsRYUCKUs/edit?usp=sharing)  
-[Method Selection and Planning](https://docs.google.com/document/d/1VLkGLXZ6Fqu2J9qZqJ25To38Dz7wApxUYSPNd_2f7xY/edit?usp=sharing)  
-[Risk Assessment](https://docs.google.com/document/d/1SlJDxLYpFV0tN-INbKLkzhi6NVLV4xNTBugW1xpC0Pg/edit?usp=sharing)  
+[Method Selection and Planning](Spanishforsalt.github.io/pdfs/METHOD_SELECTION_AND_PLANNING.pdf)  
+[Risk Assessment](Spanishforsalt.github.io/pdfs/RISK_ASSESSMENT_AND_MITIGATION.pdf)  
 [Implementation Discussion](https://docs.google.com/document/d/1J6kzp1heU8SUgIHUlTRglJRRTzFKsktP8xReDOo23vk/edit?usp=sharing)  
 [Code Documentation](https://spanishforsalt.github.io/docs/)
 
