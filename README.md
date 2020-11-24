@@ -46,7 +46,7 @@ We have discussed our method and tool selection and have documented our Abstract
   
 <img src="https://user-images.githubusercontent.com/72558704/99911785-93e48e00-2cee-11eb-8fa6-1c2648e760c7.png">  
 
-We have completed our representation of the Concrete Architecture as the Implementation is well under way; no changes to the Architecture of the game will be changed at this point. We have also begun identifying risks in the project.  We are yet to discuss unimplemented requirements but that should be done over the weekend.  
+We have completed our representation of the Concrete Architecture as the Implementation is well under way; no changes to the Architecture of the game will be changed at this point. We are yet to discuss unimplemented requirements but that should be done over the weekend.  
   
   
 **19/11 - 25/11**  
