@@ -24,14 +24,14 @@ This week we were slightly delayed getting the requirements written-up however w
   
 <img src="https://user-images.githubusercontent.com/72558704/99911366-c5a82580-2ceb-11eb-8154-eb9737c171ef.png">  
 
-The requirements were completed by 29/10 which keeps us on track as planned. We have a breakdown of each task that needs to be completed and have planned accordingly. We have also discussed which methods and tools we will be using; this is yet to be written up however.  
+The requirements were completed by 29/10 which keeps us on track as planned. We have a breakdown of each task that needs to be completed and have planned accordingly. We have also discussed which methods and tools we will be using; this is yet to be written up however. Furthermore, we decided to start doing a Risk Assessment this week; sooner than anticipated in case the risks arise earlier.  
   
 
 **30/10 - 05/11**  
   
 <img src="https://user-images.githubusercontent.com/72558704/99911389-eb352f00-2ceb-11eb-83c6-fd771ef10de9.png">  
   
-Having gotten a diagram for the Abstract Architecture completed, we started implementing as soon as possible as it appears writing about the Architecture is going to take us longer than expected.  
+Having gotten a diagram for the Abstract Architecture completed, we started implementing as soon as possible as it appears writing about the Architecture is going to take us longer than expected. We've also completed the Risk Assessment and are in good place to identify and mitigate risks should they arise.  
   
 
 **06/11 - 12/11**  
