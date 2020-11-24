@@ -4,12 +4,15 @@ This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
 
 ## Resources
 
+### Documentation
 [Requirements Specification](https://Spanishforsalt.github.io/pdfs/REQUIREMENTS.pdf)  
 [Architecture](https://docs.google.com/document/d/1cybAkH7rMg2B_xwZuOb-Dg47knBxdxyq5zAsRYUCKUs/edit?usp=sharing)  
 [Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/METHOD_SELECTION_AND_PLANNING.pdf)  
 [Risk Assessment](https://Spanishforsalt.github.io/pdfs/RISK_ASSESSMENT_AND_MITIGATION.pdf)  
 [Implementation Discussion](https://docs.google.com/document/d/1J6kzp1heU8SUgIHUlTRglJRRTzFKsktP8xReDOo23vk/edit?usp=sharing)  
 [Code Documentation](https://spanishforsalt.github.io/docs/)
+
+### Game Download
 [Jar File](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.jar)
 
 ## Sprint Updates
