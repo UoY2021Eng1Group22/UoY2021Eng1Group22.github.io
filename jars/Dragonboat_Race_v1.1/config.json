@@ -1,0 +1,10 @@
+{
+  "classPath": [
+    "Dragonboat_Race_v1.1.jar"
+  ],
+  "mainClass": "com.dragonboatrace.desktop.DesktopLauncher",
+  "useZgcIfSupportedOs": false,
+  "vmArgs": [
+    "-Xmx2G"
+  ]
+}
