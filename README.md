@@ -13,8 +13,8 @@ This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
 [Code Documentation](https://spanishforsalt.github.io/docs/)
 
 ### Game Files
-[Jar File](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.1.jar)  
-[Exe Files](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.1.rar)  
+[Jar File](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.jar)  
+[Exe Files](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.rar)  
 [Release](https://github.com/JoeWrieden/ENG1Project/releases/latest)  
 
 
