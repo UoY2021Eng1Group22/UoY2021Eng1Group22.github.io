@@ -5,11 +5,11 @@ This is where we Group 15 will be storing our Engineering 1 (SEPR) project.
 ## Resources
 
 ### Documentation
-[Requirements Specification](https://Spanishforsalt.github.io/pdfs/REQUIREMENTS.pdf)  
-[Architecture](https://docs.google.com/document/d/1cybAkH7rMg2B_xwZuOb-Dg47knBxdxyq5zAsRYUCKUs/edit?usp=sharing)  
-[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/METHOD_SELECTION_AND_PLANNING.pdf)  
-[Risk Assessment](https://Spanishforsalt.github.io/pdfs/RISK_ASSESSMENT_AND_MITIGATION.pdf)  
-[Implementation Discussion](https://docs.google.com/document/d/1J6kzp1heU8SUgIHUlTRglJRRTzFKsktP8xReDOo23vk/edit?usp=sharing)  
+[Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf)  
+[Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)  
+[Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)  
+[Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf)  
+[Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)  
 [Code Documentation](https://spanishforsalt.github.io/docs/)
 
 ### Game Files
