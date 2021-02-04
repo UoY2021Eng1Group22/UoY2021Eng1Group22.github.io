@@ -1,8 +1,8 @@
  # Group 22's Assessment 2 Deliverables
   ### Documentation
-  [Implementation](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Implementation.pdf)
-  [Change Report](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Change%20report.pdf)
-  [Continuous Integration Report](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/CI%20Report.pdf)
+  [Implementation  ](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Implementation.pdf)
+  [Change Report  ](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Change%20report.pdf)
+  [Continuous Integration Report  ](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/CI%20Report.pdf)
  
  
  
