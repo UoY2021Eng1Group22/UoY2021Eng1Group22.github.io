@@ -1,5 +1,8 @@
  # Group 22's Assessment 2 Deliverables
- 
+  ## Documentation
+  [Implementation](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Implementation.pdf)
+  [Change Report](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Changereport.pdf)
+  [Continuous Integration Report](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/CIReport.pdf)
  
  
  
@@ -14,12 +17,12 @@
   ## Resources
 
   ### Documentation
-  [Requirements Specification](https://Spanishforsalt.github.io/pdfs/Req1.pdf)  
-  [Architecture](https://Spanishforsalt.github.io/pdfs/Arch1.pdf)  
-  [Method Selection and Planning](https://Spanishforsalt.github.io/pdfs/Plan1.pdf)  
-  [Risk Assessment](https://Spanishforsalt.github.io/pdfs/Risk1.pdf)  
-  [Implementation Discussion](https://Spanishforsalt.github.io/pdfs/Impl1.pdf)  
-  [Code Documentation](https://spanishforsalt.github.io/docs/)
+  [Requirements Specification](https://UoY2021Eng1Group22.github.io/pdfs/Req1.pdf)  
+  [Architecture](https://UoY2021Eng1Group22.github.io/pdfs/Arch1.pdf)  
+  [Method Selection and Planning](https://UoY2021Eng1Group22.github.io//pdfs/Plan1.pdf)  
+  [Risk Assessment](https://UoY2021Eng1Group22.github.io/pdfs/Risk1.pdf)  
+  [Implementation Discussion](https://UoY2021Eng1Group22.github.io/pdfs/Impl1.pdf)  
+  [Code Documentation](https://UoY2021Eng1Group22.github.io/docs/)
 
   ### Game Files
   [Jar File](https://spanishforsalt.github.io/jars/Dragonboat_Race_v1.2.jar)  
