@@ -2,9 +2,9 @@
 
 ## Documentation
 
-[Implementation<br/>](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Implementation.pdf)
+[Implementation<br/>](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Impl2.pdf)
 [Change Report<br/>](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Change2.pdf)
-[Continuous Integration Report<br/>](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/CI%20Report.pdf)
+[Continuous Integration Report<br/>](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/CI2.pdf)
 [Testing](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Test2.pdf)
 
 
