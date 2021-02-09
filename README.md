@@ -17,6 +17,9 @@
 
 <a href="https://github.com/UoY2021Eng1Group22/ENG1Project/releases/download/10/dragonboatrace.jar" target="_blank">Executable jar File</a>
 
+<a href="https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/User%20Manual.pdf" target="_blank">User Manual</a>
+
+
 
 
 
