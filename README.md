@@ -6,6 +6,7 @@
 [Change Report<br/>](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Change2.pdf)
 [Continuous Integration Report<br/>](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/CI2.pdf)
 [Testing](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Test2.pdf)
+[Self Assessment](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/SelfAss2.pdf)
 
 <a href="https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/EvidenceOfTesting.pdf" target="_blank">Evidence of Testing 1</a>
 
