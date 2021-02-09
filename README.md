@@ -8,6 +8,7 @@
 [Testing](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Test2.pdf)
 
 <a href="https://github.com/UoY2021Eng1Group22/ENG1Project" target="_blank">Code Repository</a>
+<a href="https://github.com/UoY2021Eng1Group22/ENG1Project/releases/download/10/dragonboatrace.jar" target="_blank">Executable jar File</a>
 
 
 
