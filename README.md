@@ -7,6 +7,12 @@
 [Continuous Integration Report<br/>](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/CI2.pdf)
 [Testing](https://UoY2021Eng1Group22.github.io/Assessment2Deliverables/Test2.pdf)
 
+<a href="https://github.com/UoY2021Eng1Group22/UoY2021Eng1Group22.github.io/Assessment2Deliverables/EvidenceOfTesting.pdf" target="_blank">Evidence of Testing 1</a>
+
+<a href="https://github.com/UoY2021Eng1Group22/UoY2021Eng1Group22.github.io/Assessment2Deliverables/SavingLoading.mp4" target="_blank">Evidence of Testing 2</a>
+
+<a href="https://github.com/UoY2021Eng1Group22/UoY2021Eng1Group22.github.io/Assessment2Deliverables/Powerups%20+%20Difficulty.mp4" target="_blank">Evidence of Testing 3</a>
+
 <a href="https://github.com/UoY2021Eng1Group22/ENG1Project" target="_blank">Code Repository</a>
 
 <a href="https://github.com/UoY2021Eng1Group22/ENG1Project/releases/download/10/dragonboatrace.jar" target="_blank">Executable jar File</a>
